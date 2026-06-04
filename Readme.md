@@ -101,21 +101,21 @@ All connections go through the custom PCB. Motor drivers connect directly to the
 
 18 components total. Estimated cost around **$102.50 USD / 5,315 EGP**
 
-| Component | Category | Qty | Unit Price (EGP) | Total (EGP) |
-|---|---|---|---|---|
-| [Raspberry Pi Pico 2 W](https://devboardsmarket.com/products/raspberry-pi-pico-2-w?srsltid=AfmBOopgmEFdKjkWvGh-7QACQl2UJylK8364oRDK6dx06kqMpeuAyx8P) | Microcontroller | 1 | 900 | 900 |
-| [BTS7960 43A DC Motor Driver](https://mostelectronic.com/shop/motors-drives-2/dc-motor-driver-bts7960-single-channel-43a/?srsltid=AfmBOopSPC3Y09tPYW8b37SoZHbL-RxxpE4B4ZPOR0) | Motor Driver | 2 | 450 | 900 |
-| [MG996R 360° Servo Motor](https://www.ram-e-shop.com/ar/shop/servo-mg996-360-mg996r-servo-motor-360deg-11-kg-cm-metal-gears-9061?category=116) | Motors | 3 | 210 | 630 |
-| [DC Motor With Gear Box JGA25-370 12V 33RPM 30Kg.cm](https://makerselectronics.com/product/dc-motor-with-gear-box-jga25-370-12v-33rpm-30kg-cm/?srsltid=AfmBOooRA5eALhgQnLqaYq9sV1ngR-ljp8xgyGhIBDCXTAD9hNnYab_4) | Motors | 2 | 300 | 600 |
-| [Ublox NEO-7M GPS Module](https://microohm-eg.com/ublox-neo-7m-gps-module-hw-623-with-micro-usb/) | Sensors | 1 | 540 | 540 |
-| [MPU-6050 IMU Gyro/Accel Module](https://www.ram-e-shop.com/ar/shop/kit-imu-mpu6050-gy521-imu-6-dof-mpu-6050-gyroscope-accelerometer-sensor-module-7076?srsltid=AfmBOort23Y4SV) | Sensors | 1 | 175 | 175 |
-| [Capacitive Soil Moisture Sensor V2.0](https://www.ram-e-shop.com/ar/shop/sen-soil-c-capacitive-analog-soil-moisture-sensor-v2-0-sku-soil-c-8116) | Sensors | 1 | 100 | 100 |
-| [DS18B20 Waterproof Temp Sensor](https://www.ram-e-shop.com/ar/shop/wire-ds18b20-ds18b20-waterproof-temperature-sensor-original-chip-7175?srsltid=AfmBOq_CjmrWg__HRsbaZSdQxdzs) | Sensors | 1 | 85 | 85 |
-| [HC-SR04 Ultrasonic Sensor](https://www.ram-e-shop.com/ar/shop/kit-ultrasonic-hcsr04-ultrasonic-sensor-hc-sr04-5949) | Sensors | 3 | 40 | 120 |
-| [Rechargeable Li-ion Battery Pack 18650 12V 6000mAh](https://makerselectronics.com/product/rechargeable-original-new-li-ion-battery-pack-18650-12v-3s-2pbms-6000mah/) | Power | 1 | 900 | 900 |
-| [XL4016 8A Step-Down Buck Converter](https://mostelectronic.com/shop/dc-ac-converters/xl4016-dc-dc-buck-converter-8a-step-down-4-36v-to-1-25-36v-with-display/) | Power | 1 | 243 | 243 |
-| [LM2596 3A Step-Down Buck Converter](https://mostelectronic.com/shop/dc-ac-converters/dc-dc-step-down-adjustable-voltage-converter-module-with-display-3a-lm2596/) | Power | 1 | 122 | 122 |
-| **Total** | | **18** | | **5,315 EGP** |
+| Component | Category | Qty | Unit Price (EGP) | Total (EGP) | Unit Price (USD) | Total (USD) | Store |
+|---|---|---|---|---|---|---|---|
+| [Raspberry Pi Pico 2 W](https://devboardsmarket.com/products/raspberry-pi-pico-2-w?srsltid=AfmBOopgmEFdKjkWvGh-7QACQl2UJylK8364oRDK6dx06kqMpeuAyx8P) | Microcontroller | 1 | 900 EGP | 900 EGP | $17.36 | $17.36 | Dev Boards |
+| [BTS7960 43A DC Motor Driver](https://mostelectronic.com/shop/motors-drives-2/dc-motor-driver-bts7960-single-channel-43a/?srsltid=AfmBOopSPC3Y09tPYW8b37SoZHbL-RxxpE4B4ZPOR0) | Motor Drivers | 2 | 450 EGP | 900 EGP | $8.68 | $17.36 | Most Electronics |
+| [MG996R 360° Servo Motor](https://www.ram-e-shop.com/ar/shop/servo-mg996-360-mg996r-servo-motor-360deg-11-kg-cm-metal-gears-9061?category=116) | Motors & Actuators | 3 | 210 EGP | 630 EGP | $4.05 | $12.15 | Ram Electronics |
+| [DC Motor With Gear Box JGA25-370 12V 33RPM 30Kg.cm](https://makerselectronics.com/product/dc-motor-with-gear-box-jga25-370-12v-33rpm-30kg-cm/?srsltid=AfmBOooRA5eALhgQnLqaYq9sV1ngR-ljp8xgyGhIBDCXTAD9hNnYab_4) | Motors & Actuators | 2 | 300 EGP | 600 EGP | $5.79 | $11.57 | Makers Electronics |
+| [Ublox NEO-7M GPS Module](https://microohm-eg.com/ublox-neo-7m-gps-module-hw-623-with-micro-usb/) | Sensors | 1 | 540 EGP | 540 EGP | $10.41 | $10.41 | Micro Ohm |
+| [MPU-6050 IMU Gyro/Accel Module](https://www.ram-e-shop.com/ar/shop/kit-imu-mpu6050-gy521-imu-6-dof-mpu-6050-gyroscope-accelerometer-sensor-module-7076?srsltid=AfmBOort23Y4SV) | Sensors | 1 | 175 EGP | 175 EGP | $3.38 | $3.38 | Ram Electronics |
+| [DS18B20 Waterproof Temp Sensor](https://www.ram-e-shop.com/ar/shop/wire-ds18b20-ds18b20-waterproof-temperature-sensor-original-chip-7175?srsltid=AfmBOq_CjmrWg__HRsbaZSdQxdzs) | Sensors | 1 | 85 EGP | 85 EGP | $1.64 | $1.64 | Ram Electronics |
+| [Capacitive Soil Moisture Sensor V2.0](https://www.ram-e-shop.com/ar/shop/sen-soil-c-capacitive-analog-soil-moisture-sensor-v2-0-sku-soil-c-8116) | Sensors | 1 | 100 EGP | 100 EGP | $1.93 | $1.93 | Ram Electronics |
+| [HC-SR04 Ultrasonic Sensor](https://www.ram-e-shop.com/ar/shop/kit-ultrasonic-hcsr04-ultrasonic-sensor-hc-sr04-5949) | Sensors | 3 | 40 EGP | 120 EGP | $0.77 | $2.31 | Ram Electronics |
+| [Rechargeable Li-ion Battery Pack 18650 12V 6000mAh](https://makerselectronics.com/product/rechargeable-original-new-li-ion-battery-pack-18650-12v-3s-2pbms-6000mah/) | Power Management | 1 | 900 EGP | 900 EGP | $17.36 | $17.36 | Makers Electronics |
+| [XL4016 8A Step-Down Buck Converter](https://mostelectronic.com/shop/dc-ac-converters/xl4016-dc-dc-buck-converter-8a-step-down-4-36v-to-1-25-36v-with-display/) | Power Management | 1 | 242.99 EGP | 242.99 EGP | $4.69 | $4.69 | Most Electronics |
+| [LM2596 3A Step-Down Buck Converter](https://mostelectronic.com/shop/dc-ac-converters/dc-dc-step-down-adjustable-voltage-converter-module-with-display-3a-lm2596/) | Power Management | 1 | 121.99 EGP | 121.99 EGP | $2.35 | $2.35 | Most Electronics |
+| **Total** | | **18** | | **5,314.98 EGP** | | **$102.51** | |
 
 ---
 
