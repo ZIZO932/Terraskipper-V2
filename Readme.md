@@ -137,6 +137,4 @@ The robot went through a lot of iterations. Some highlights:
 
 ---
 
-## Made by
 
-Ziad — as part of a project exploring how robotics and soft robot design can support smart farming and environmental monitoring in Egypt
