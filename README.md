@@ -36,7 +36,7 @@ After the design was done I moved on to actually building it. A lot of stuff tha
 - Uploaded and ran the code function by function. Found the right DC motor wasnt moving, swapped both motors to confirm it wasnt the motor itself, traced it to the motor driver's motor B output, and fixed it.
 - Did a final pass before filming: checked all connections, cleaned up the wiring, and ran through the movements a few times to make sure they'd look good on camera.
 
-![z.png](/Images/Build/m7.jpg)
+![z.png](/Images/Build/m7.jpeg)
 ---
 
 ## How it works
