@@ -58,7 +58,6 @@ The robot has two main systems working together
 **Brain**
 - Raspberry Pi Pico 2 W handles everything
 - PID control keeps the robot stable and balanced while moving
-- RS485-to-TTL module for sensor communication
 
 ---
 
