@@ -136,9 +136,9 @@ All connections go through the custom PCB. Motor drivers connect directly to the
 ---
 
 ## Magazine / Zine
-
+![6.png](/Magazine/Magazine Terraskipper .jpg)
 A project zine documenting the full design process, decisions and lessons learned is also included in this repo. It covers everything from the initial research into mudskipper locomotion to the final assembly testing.
-![7.png](/Magazine/Magazine%20Terraskipper%20.jpg)
+
 ---
 
 ## Build Progress
