@@ -91,7 +91,7 @@ The PCB is a 2-layer board. Top layer carries signal lines and positive voltage.
 
 Main components on the board:
 
-- Raspberry Pi Pico 2 W
+- Xiao esp S3
 - 2x BTS7960 43A motor drivers (one per DC motor)
 - XL4016 8A and LM2596 3A buck converters for power regulation
 - MPU-6050 IMU gyro and accelerometer
@@ -119,7 +119,7 @@ All connections go through the custom PCB. Motor drivers connect directly to the
 
 | Component | Category | Qty | Unit Price (EGP) | Total (EGP) |
 |---|---|---|---|---|
-| Raspberry Pi Pico 2 W | Microcontroller | 1 | 900 | 900 |
+| Xiao Esp s3 | Microcontroller | 1 | 900 | 900 |
 | BTS7960 43A DC Motor Driver | Motor Driver | 2 | 450 | 900 |
 | MG996R 360° Servo Motor | Motors | 3 | 210 | 630 |
 | DC Motor With Gear Box JGA25-370 12V 33RPM 30Kg.cm | Motors | 2 | 300 | 600 |
@@ -136,7 +136,8 @@ All connections go through the custom PCB. Motor drivers connect directly to the
 ---
 
 ## Magazine / Zine
-![6.png](/Magazine/Magazine Terraskipper .jpg)
+![7.png](/Magazine/Magazineterraskipper.jpg)
+
 A project zine documenting the full design process, decisions and lessons learned is also included in this repo. It covers everything from the initial research into mudskipper locomotion to the final assembly testing.
 
 ---
